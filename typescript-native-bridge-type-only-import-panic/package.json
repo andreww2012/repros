@@ -1,0 +1,10 @@
+{
+  "name": "typescript-native-bridge-type-only-import-panic",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "typescript": "npm:typescript-native-bridge@6.0.3-bridge.15.tsgo.7.0.2",
+    "typescript-js": "npm:typescript@6.0.3"
+  }
+}
