@@ -1,0 +1,13 @@
+{
+  "include": ["*.ts", "*.vue"],
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2022",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": [],
+    "noEmit": true,
+    "skipLibCheck": true,
+    "allowArbitraryExtensions": true
+  }
+}
